@@ -350,7 +350,7 @@ settings:
 
   -
     id: ulu-fancy-canvas-2
-    title: danvas styling, orange
+    title: canvas styling, orange
     type: class-select
     allowEmpty: true
     default: ''
@@ -410,7 +410,7 @@ settings:
 
   -
     id: ul-fancy-canvas-5
-    title: cnvas styling, cyan
+    title: canvas styling, cyan
     type: class-select
     allowEmpty: true
     default: ''
@@ -576,7 +576,7 @@ settings:
 
   -
     id: ulu-header1-override
-    title: gader 1 size override
+    title: header 1 size override
     type: class-toggle
 
   -
